@@ -1,2 +1,3 @@
-# wuxia
-1
+
+
+Student discount feature implemented in checkout.py
